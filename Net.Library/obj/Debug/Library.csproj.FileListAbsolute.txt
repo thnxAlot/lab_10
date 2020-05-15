@@ -1,0 +1,5 @@
+D:\учеба\прога\лабы\Клиент-серверное приложение\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+D:\учеба\прога\лабы\Клиент-серверное приложение\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+D:\учеба\прога\лабы\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\учеба\прога\лабы\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+D:\учеба\прога\лабы\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
